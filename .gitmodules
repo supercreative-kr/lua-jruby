@@ -1,0 +1,4 @@
+[submodule "jnlua"]
+	path = jnlua
+	url = ../jnlua
+	branch = 0.9
